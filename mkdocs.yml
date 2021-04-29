@@ -1,6 +1,6 @@
 site_name: Azin cloud documentation
 site_description: Official documentation for Azin cloud products
-site_url: https://v3docs.azintelecom.az
+site_url: https://docs.azintelecom.az
 theme:
   name: material
   features:
